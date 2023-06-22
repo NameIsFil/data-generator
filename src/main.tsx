@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import {DataGenerator} from "./DataGenerator/DataGenerator.tsx";
+import { DataGenerator } from './DataGenerator/DataGenerator.tsx';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
